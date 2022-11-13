@@ -1,0 +1,7 @@
+CODIGO REQUERIMIENTO RF
+NOMBRE:	Realizar una compra.
+PROPOSITO:	El cliente después de una exhaustiva búsqueda del producto en el catálogo deseado realizara una intensión de compra enviando el producto a un carrito de compras.
+DESCRIPCION:	Muestra en detalle lo añadido en el carro de compras, en este módulo se podrá modificar la cantidad de productos, eliminar productos, o regresar al catálogo de productos. Una vez que el usuario desee comprar, deberá presionar en el botón comprar y se mostrará una pantalla con el método de pago donde encontrara diferentes pasarelas de pago (Pypal (transferencia bancaria), efecty, nequi, Mercado pago, – en el correo de confirmación al usuario deberá llegarle información detallada como número de cuenta, Codigo de efecty, o numero celular Nequi etc.; Contrareembolso). Además del método de envío, el cual puede llegar a tener un valor adicional. Todo este proceso debería ser notificado vía correo al usuario (confirmación de compra, cambio de estado del pedido etc.).
+ENTRADA:	Datos de formulario de aceptación de la compra por parte de comprador donde incluirá dirección de entrega.
+SALIDA:	Confirmación de venta del producto por medio del correo que el usuario suministro en el momento  de enviar el formulario de compra.
+PRIORIDAD:	alta
