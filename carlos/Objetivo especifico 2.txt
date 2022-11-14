@@ -13,3 +13,4 @@ En terminos de la Mercadotecnia interactiva el Ecomerce en internet tendria 4 fo
 	      el usuario no se quede esperando la respuesta por parte de la tienda, esta interaccion da confianza al comprador y hace que la venta fluya creando una mayor fortaleza del negocio.
 4, Fidelizacion: Permite vinculo duradero y especial. Internet y sus recursos de comercio virtual ofrecen la creacion de comunidades de usuarios que aporten contenidos de manera que se establecen un dialogo personalizado con los 
 		clientes, quienes resultarian siendo mas fieles. buscando consegir clientes dispuestos a comprar.
+		//commit
