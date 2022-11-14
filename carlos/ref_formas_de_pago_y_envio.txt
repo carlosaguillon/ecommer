@@ -1,0 +1,14 @@
+CODIGO REQUERIMIENTO RF
+NOMBRE:	Establecer Formas de Pago y métodos de envío
+PROPOSITO:	Establecer las formas de pago que la plataforma determine y los métodos de envios establecidos por la plataforma,
+DESCRIPCION:	El sistema tendrá pasarelas de pago para realizar las compras de los clientes entre ellas estarán:
+(Pypal (transferencia bancaria).
+Eefecty,
+Nequi, 
+Mercado pago, –
+El envio se realizara por la empresa determinada por la plataforma
+
+ENTRADA:	Datos de formulario de aceptación de la compra por parte de comprador donde incluirá dirección de entrega.
+
+SALIDA	Confirmación de venta del producto por medio del correo que el usuario suministro en el momento  de enviar el formulario de compra.
+PRIORIDAD	alta

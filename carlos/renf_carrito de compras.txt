@@ -1,0 +1,20 @@
+CÓDIGO REQUERIMIENTO NF
+NOMBRE:	        Confidencialidad de la información
+PROPOSITO:	La Ley de Protección de Datos establece las entidades de carácter público, 
+                en todo tiempo a garantizar la reserva de la información siempre y cuando 
+                se realice una aceptación por parte del usuario, inclusive después de finalizada su relación con la entidad.
+DESCRIPCIÓN:	En el momento que el usuario acepta el tratamiento de datos tratados 
+                en el formulario de registro para realizar la compra en el modulo carrito de compras
+		el cual  se compromete a guardar en reserva esta información.
+ENTRADA	:       Formulario de ingreso datos para realizar compra en el modulo carrito de compras 
+SALIDA:  	Aceptación de manejo de datos
+PRIORIDAD	Alta, sensible
+
+CÓDIGO REQUERIMIENTO NF
+NOMBRE		Restricción de contenido
+PROPOSITO	El acceso a cada página del aplicativo está determinado por el rol del usuario.
+DESCRIPCION	El acceso a cada página del aplicativo está determinado por el rol del usuario.
+ENTRADA		Al iniciar sesión
+SALIDA		Modulo específico para el tipo de usuario
+PRIORIDAD	Alta
+
